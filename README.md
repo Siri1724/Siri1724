@@ -2,38 +2,43 @@
 
 ## 🚀 Aspiring Data Analyst
 
-I enjoy turning raw data into interactive dashboards and meaningful insights.
+I enjoy transforming raw data into interactive dashboards and meaningful business insights.
 
-### 🛠️ Skills
+---
 
-- 📊 Power BI
-- 📈 Excel
-- 🗄 SQL (Learning)
-- 🐍 Python (Learning)
-- 📉 Statistics
-- 📋 Data Visualization
-- ⚡ DAX
-- 🔄 Power Query
+## 🛠️ Skills
+
+* 📊 Power BI
+* 📈 Excel
+* 🗄 SQL
+* 📉 Statistics
+* 📋 Data Visualization
+* ⚡ DAX
+* 🔄 Power Query
 
 ---
 
 ## 🌱 Currently Learning
 
-- SQL
-- Python
-- Advanced Power BI
+* SQL
+* Python
+* Advanced Power BI
 
 ---
 
 ## 📌 Featured Projects
 
-🚖 Uber Ride Analysis Dashboard *(Coming Soon)*
+🚖 Uber Ride Analysis Dashboard
 
 🛡️ Safe LA Graduation Project
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with Me
 
-- LinkedIn
-- Email
+💼 LinkedIn (https://www.linkedin.com/in/sara-farouk1/)
+
+📧 Email (sarafaroukk17@gmail.com)
+
+GitHub:
+https://github.com/Siri1724
