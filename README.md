@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Sara Farouk 👋
 
-<!--
-**Siri1724/Siri1724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I enjoy turning raw data into interactive dashboards and meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- 📊 Power BI
+- 📈 Excel
+- 🗄 SQL (Learning)
+- 🐍 Python (Learning)
+- 📉 Statistics
+- 📋 Data Visualization
+- ⚡ DAX
+- 🔄 Power Query
+
+---
+
+## 🌱 Currently Learning
+
+- Google Data Analytics Professional Certificate
+- SQL
+- Python
+- Advanced Power BI
+
+---
+
+## 📌 Featured Projects
+
+🚖 Uber Ride Analysis Dashboard *(Coming Soon)*
+
+🛡️ Safe LA Graduation Project
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn
+- Email
