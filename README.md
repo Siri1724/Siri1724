@@ -19,7 +19,6 @@ I enjoy turning raw data into interactive dashboards and meaningful insights.
 
 ## 🌱 Currently Learning
 
-- Google Data Analytics Professional Certificate
 - SQL
 - Python
 - Advanced Power BI
