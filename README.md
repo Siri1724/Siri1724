@@ -1,10 +1,12 @@
 <div align="center">
-  
-# Hi 👋, I'm Sara Farouk
+
+# Hi, I'm Sara Farouk 👋
 
 ### Aspiring Data Analyst
 
-Turning raw data into meaningful insights through dashboards and data visualization.
+I transform raw data into interactive dashboards and actionable business insights.
+
+Power BI • Excel • SQL • Python • Tableau
 
 </div>
 
@@ -14,44 +16,95 @@ Turning raw data into meaningful insights through dashboards and data visualizat
 
 * 🎓 Business Administration Graduate
 * 📊 Passionate about Data Analytics & Business Intelligence
-* 🌱 Currently learning SQL, Python and Advanced Power BI
-* 📚 Google Data Analytics Professional Certificate Learner
-* 🚀 Building real-world portfolio projects
+* 🌱 Currently learning SQL, Python, Statistics, and Advanced Power BI
+* 🎯 Building real-world portfolio projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Power BI
-* Excel
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,github" />
+</p>
+
+**Analytics Tools**
+
+* 📊 Power BI
+* 📊 Tableau
+* 📈 Microsoft Excel
+* ⚡ DAX
+* 🔄 Power Query
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚖 Uber Ride Analysis Dashboard
+
+Interactive Power BI dashboard analyzing bookings, revenue, cancellations and customer ratings.
+
+➡️ **[View Project](https://github.com/Siri1724/Uber-Ride-Analysis-Dashboard)**
+
+</td>
+
+<td>
+
+<img src="assets/uber.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📈 Sales Dashboard (Excel)
+
+Interactive Excel dashboard for sales performance analysis.
+
+➡️ **[View Project](https://github.com/Siri1724/Sales-Dashboard-Excel)**
+
+</td>
+
+<td>
+
+<img src="assets/sales.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+</table>
+
+---
+
+## 📜 Certifications
+
+* Excel – Analyst Builder
+* Google Data Analytics Professional Certificate 
+
+---
+
+## 🌱 Currently Learning
+
 * SQL
 * Python
-* DAX
-* Power Query
 * Statistics
-
----
-
-## 📌 Featured Projects
-
-🚖 Uber Ride Analysis Dashboard (Power BI)
-
-📈 Sales Dashboard (Excel)
-
-🛡️ Safe LA Graduation Project (Tableau)
-
----
-
-## 🎯 2026 Goals
-
-* Build 10+ Data Analytics Projects
-* Master SQL
-* Master Python for Data Analysis
-* Land my first Data Analyst role
 
 ---
 
 ## 📫 Connect with Me
 
-* LinkedIn (https://www.linkedin.com/in/sara-farouk1/)
-* GitHub (sarafaroukk17@gmail.com)
+* LinkedIn https://www.linkedin.com/in/sara-farouk1/
+* GitHub https://github.com/Siri1724
+* Email sarafaroukk17@gmail.com
