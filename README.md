@@ -1,43 +1,57 @@
-# Hi there, I'm Sara Farouk 👋
+<div align="center">
+  
+# Hi 👋, I'm Sara Farouk
 
-## 🚀 Aspiring Data Analyst
+### Aspiring Data Analyst
 
-I enjoy transforming raw data into interactive dashboards and meaningful business insights.
+Turning raw data into meaningful insights through dashboards and data visualization.
 
----
-
-## 🛠️ Skills
-
-* 📊 Power BI
-* 📈 Excel
-* 📉 Statistics
-* 📋 Data Visualization
-* ⚡ DAX
-* 🔄 Power Query
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 👩‍💻 About Me
 
+* 🎓 Business Administration Graduate
+* 📊 Passionate about Data Analytics & Business Intelligence
+* 🌱 Currently learning SQL, Python and Advanced Power BI
+* 📚 Google Data Analytics Professional Certificate Learner
+* 🚀 Building real-world portfolio projects
+
+---
+
+## 🛠️ Tech Stack
+
+* Power BI
+* Excel
 * SQL
 * Python
-* Advanced Power BI
+* DAX
+* Power Query
+* Statistics
 
 ---
 
 ## 📌 Featured Projects
 
-🚖 Uber Ride Analysis Dashboard
+🚖 Uber Ride Analysis Dashboard (Power BI)
 
-🛡️ Safe LA Graduation Project
+📈 Sales Dashboard (Excel)
+
+🛡️ Safe LA Graduation Project (Tableau)
+
+---
+
+## 🎯 2026 Goals
+
+* Build 10+ Data Analytics Projects
+* Master SQL
+* Master Python for Data Analysis
+* Land my first Data Analyst role
 
 ---
 
 ## 📫 Connect with Me
 
-💼 LinkedIn (https://www.linkedin.com/in/sara-farouk1/)
-
-📧 Email (sarafaroukk17@gmail.com)
-
-GitHub:
-https://github.com/Siri1724
+* LinkedIn (https://www.linkedin.com/in/sara-farouk1/)
+* GitHub (sarafaroukk17@gmail.com)
