@@ -10,7 +10,6 @@ I enjoy transforming raw data into interactive dashboards and meaningful busines
 
 * 📊 Power BI
 * 📈 Excel
-* 🗄 SQL
 * 📉 Statistics
 * 📋 Data Visualization
 * ⚡ DAX
