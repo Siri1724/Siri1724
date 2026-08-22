@@ -94,7 +94,7 @@ Interactive Power BI dashboard analyzing bookings, revenue, cancellations and cu
 
 <td>
 
-<img src="Images/Dashboard.png"/>
+<img src="assets/Samsung.png"/>
 
 </td>
 
