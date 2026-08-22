@@ -84,6 +84,26 @@ Interactive Excel dashboard for sales performance analysis.
 
 <td>
 
+### 📊 Samsung Supply Chain & Logistics Dashboard
+
+Interactive Power BI dashboard analyzing bookings, revenue, cancellations and customer ratings.
+
+➡️ **[View Project](https://github.com/Siri1724/Samsung-Supply-Chain-Logistics-Dashboard)**
+
+</td>
+
+<td>
+
+<img src="Images/Dashboard.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
 </table>
 
 ---
