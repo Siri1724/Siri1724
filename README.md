@@ -2,7 +2,7 @@
 
 # Hi, I'm Sara Farouk 👋
 
-### Aspiring Data Analyst
+### Aspiring BI Analyst
 
 I transform raw data into interactive dashboards and actionable business insights.
 
@@ -86,7 +86,7 @@ Interactive Excel dashboard for sales performance analysis.
 
 ### 📊 Samsung Supply Chain & Logistics Dashboard
 
-Interactive Power BI dashboard analyzing bookings, revenue, cancellations and customer ratings.
+Interactive Power BI dashboard analyzing supply chain and logistics performance.
 
 ➡️ **[View Project](https://github.com/Siri1724/Samsung-Supply-Chain-Logistics-Dashboard)**
 
@@ -94,7 +94,7 @@ Interactive Power BI dashboard analyzing bookings, revenue, cancellations and cu
 
 <td>
 
-<img src="assets/Samsung.png"/>
+<img src="assets/samsungg.png"/>
 
 </td>
 
@@ -104,6 +104,45 @@ Interactive Power BI dashboard analyzing bookings, revenue, cancellations and cu
 
 <td>
 
+### 📊 Marketing Campaign Performance Dashboard
+
+Interactive Power BI dashboard analyzing marketing campaign performance and ROI.
+
+➡️ **[View Project](https://github.com/Siri1724/Marketing-Campaign-Performance-Dashboard)**
+
+</td>
+
+<td>
+
+<img src="assets/Markting.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📊 Sales Analysis Dashboard
+
+Interactive Power BI dashboard analyzing sales performance and key business insights.
+
+➡️ **[View Project](https://github.com/Siri1724/Sales-Analysis-Dashboard)**
+
+</td>
+
+<td>
+
+<img src="assets/Sales2.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 </table>
 
 ---
@@ -111,7 +150,9 @@ Interactive Power BI dashboard analyzing bookings, revenue, cancellations and cu
 ## 📜 Certifications
 
 * Excel – Analyst Builder
-* Google Data Analytics Professional Certificate 
+* Google Data Analytics Professional Certificate
+* Advanced DAX - DataCamp
+* Power BI UX/UI Designed Modern - Udemy
 
 ---
 
