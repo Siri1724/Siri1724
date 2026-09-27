@@ -2,7 +2,7 @@
 
 # Hi, I'm Sara Farouk 👋
 
-### Aspiring BI Analyst
+### Junior BI Analyst
 
 I transform raw data into interactive dashboards and actionable business insights.
 
